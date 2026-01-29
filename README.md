@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me::
 I’m a machine learning and deep learning enthusiast focused on building data-driven solutions and intelligent systems. I enjoy working with models that turn complex data into meaningful insights and real-world impact.<br>Linkedln_profile - https://www.linkedin.com/in/ashish-yadav-a31454342<br>leetcode_profile - https://leetcode.com/u/hRPMXY2r81/ 
 
 
