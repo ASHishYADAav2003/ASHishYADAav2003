@@ -14,6 +14,8 @@ I’m a machine learning and deep learning enthusiast focused on building data-d
 
 ## 🏆 Certifications :
 ![](rift_hackathon.jpeg)
+![](GenAI.jpeg)
+![](python.jpeg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
