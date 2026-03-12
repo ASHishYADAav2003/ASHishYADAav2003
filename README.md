@@ -12,7 +12,7 @@ I’m a machine learning and deep learning enthusiast focused on building data-d
 ![](https://nirzak-streak-stats.vercel.app/?user=ASHishYADAav2003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHishYADAav2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Certifications :
 ![](rift_hackathon.jpeg)
 
 ### ✍️ Random Dev Quote
