@@ -21,9 +21,7 @@ I’m a machine learning and deep learning enthusiast focused on building data-d
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github.com/ASHishYADAav2003/GeneVariant)
+![](https://pharmaguard-rift-ten.vercel.app/)
 
----
-[![](https://github.com/ASHishYADAav2003/GeneVariant)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
