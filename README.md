@@ -13,7 +13,7 @@ I’m a machine learning and deep learning enthusiast focused on building data-d
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHishYADAav2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ASHishYADAav2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](rift_hackathon.jpeg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
